@@ -1,10 +1,8 @@
 # -Student-MyFirstUnityShootingGame
-this demo is totally download for Unity Assets Store, and i just do some modifications
+this demo is download directly from Unity Assets Store, and all i do is add some modifications
 
-## License Adding Word /<IF Use/>
-    this demo is totally download for Unity Assets Store
-    more details, call for unity3d.com
+## About This Project
+    This demo is a backup from Unity Assests Store
+    For More Details, visit unity3d.com
 
-## Usage--Project Exhibiting
-Sorry From Putting Up Here Without Adding Any Unity License,
-If Unity Company Ask To Remove Repository, This Request Will Be Done Immediately By Me When Infromed..
+
